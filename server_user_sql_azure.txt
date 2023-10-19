@@ -1,0 +1,18 @@
+SQL SERVER
+server: server-estoque
+
+logon administrador bando azure: root-estoque
+
+senha: Varzea@84
+
+MYSQL
+server:vendas-petshop
+user:rootvendas
+password:Varzea@84
+
+MONGODB
+dados-externos
+
+
+COFRE DE SENHAS (CHAVES)
+nome: senhas-data-lake-beraldo
